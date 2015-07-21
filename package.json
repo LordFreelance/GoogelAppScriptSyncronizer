@@ -1,0 +1,15 @@
+{
+  "author": "Asan kaceri",
+  "license": "BSD",
+  "name": "gassync",
+  "version": "0.0.1",
+  "description": "This is a Google App Script Project Generator",
+  "bin": {
+    "gassync": "bin/GASSync.js"
+  },
+  "main": "./lib/index.js",
+  "preferGlobal": "true",
+  "dependencies": {
+    "commander": "^2.8.1"
+  }
+}
